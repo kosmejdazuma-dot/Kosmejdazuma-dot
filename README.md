@@ -15,7 +15,9 @@ roblox scripter. 2y of experience with module, local, server scripts and datasto
 ### gameplay Loops
 * What it does: Automated round matchmaking, map initialization, coordinate-safe asset spawning, and round cleanups.
 * Backend: Event-driven game loops made to run 24/7 without memory leaks.
-* Demo: [Link to video clip]
+* Demo: [
+
+]
   
 ## Terms & Payment
 * Payment type: Group Funds or flat Robux fee if no time or revenue split.
