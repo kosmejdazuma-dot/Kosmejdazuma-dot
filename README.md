@@ -1,14 +1,14 @@
 
 # rbx scripter
+Hi! I'm a Roblox backend scripter with over 2 years of experience building secure, scalable systems. i can work with stuff like: game loops, data management, and safe frameworks for simulators, story games, and RPGs.
 
-roblox scripter. 2y of experience with module, local, server scripts and datastores. can manage simulators, story games and other tasks
+## Capabilities
+* clean : I use OOP and modular scripts to keep scripts nice and not a mess.
+* Very safe: Everything goes through server script checks. Exploit proof 
+* Anti lag: Object pooling to eliminate memory damage if Instance spawn.
 
-## Core things
-* What i use: I use OOP and modular scripts to keep scripts nice and not a mess.
-* safe: Everything goes through server script checks. Exploit proof 
-* no lag: Object pooling to eliminate memory damage if Instance spawn.
-
-### Mutation 
+## Showcase
+### Mutations / Rarity
 * Backend: Managed server-side ModuleScripts to prevent exploit
 <img width="500" height="324" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/f2cbc561-e1e0-439e-8a88-a2eeb3b37947" />
 
