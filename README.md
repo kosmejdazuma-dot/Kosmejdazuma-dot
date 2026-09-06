@@ -1,23 +1,23 @@
+
 # rbx scripter
 
-roblox scripter. 2y of experience with module, local, server scripts and datastores
+roblox scripter. 2y of experience with module, local, server scripts and datastores. can manage simulators, story games and other tasks
 
 ## Core things
-* What i use: I use OOP and modular scripts to keep code clean and structured.
-* safe: Everything goes through server-side checks. Exploiter proof 
-
+* What i use: I use OOP and modular scripts to keep scripts nice and not a mess.
+* safe: Everything goes through server script checks. Exploit proof 
 * no lag: Object pooling to eliminate memory damage if Instance spawn.
 
-### Mutation & Status Framework
+### Mutation 
 * Backend: Managed server-side ModuleScripts to prevent exploit
-* vid: [Link to video clip]
+<img width="500" height="324" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/f2cbc561-e1e0-439e-8a88-a2eeb3b37947" />
 
 ### gameplay Loops
-* What it does: Automated round matchmaking, map initialization, coordinate-safe asset spawning, and round cleanups.
+* What it does: basicly gameplay loops 
 * Backend: Event-driven game loops made to run 24/7 without memory leaks.
-* vid: [
+<img width="500" height="283" alt="fix5-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/a68b4385-9d51-4e2c-95d9-4c5da8c1b45e" />
 
-]
+
   
 ## Terms & Payment
 * Payment type: Group Funds or revenue split.
