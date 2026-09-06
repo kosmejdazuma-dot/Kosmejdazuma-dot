@@ -1,4 +1,3 @@
-
 # rbx scripter
 Hi! I'm a Roblox backend scripter with over 2 years of experience building secure, scalable systems. i can work with stuff like: game loops, data management, and safe frameworks for simulators, story games, and RPGs.
 
@@ -13,7 +12,6 @@ Hi! I'm a Roblox backend scripter with over 2 years of experience building secur
 <img width="500" height="324" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/f2cbc561-e1e0-439e-8a88-a2eeb3b37947" />
 
 ### gameplay Loops
-* What it does: basicly gameplay loops 
 * Backend: Event-driven game loops made to run 24/7 without memory leaks.
 <img width="500" height="283" alt="fix5-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/a68b4385-9d51-4e2c-95d9-4c5da8c1b45e" />
 
@@ -21,10 +19,10 @@ Hi! I'm a Roblox backend scripter with over 2 years of experience building secur
   
 ## Terms & Payment
 * Payment type: Group Funds or revenue split.
-* payment upfront: 40% upfront  60% after. (or your preferences)
-* req: Add me to a group on day1 so no late payment (so faster group funds).
+* Upfront rate: 40% upfront  60% after. (or your preferences)
+* Rule: Add me to a group on day1 so no late payment (so faster group funds).
 
 ## Contact
 * Discord: [rubiccube5x5]
-* Talent Hub: [Your Profile Link]
+
 
